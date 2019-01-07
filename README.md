@@ -1,6 +1,7 @@
 # react-markdown-github-renderers
 
-A set of [react-markdown](https://www.github.com/rexxars/react-markdown) renderers that implement the visual appearance of GitHub's Markdown renderers.
+A set of [react-markdown](https://www.github.com/rexxars/react-markdown) renderers that implement the visual appearance of GitHub's Markdown renderers.<br>
+It uses [highlight](http://highlightjs.org) to provide syntax highlighting for supported every language.
 
 ## Support Me
 If you're using [Robin Frischmann](https://rofrischmann.de)'s work, please consider supporting his [Open Source Projects](https://github.com/rofrischmann) on [**Patreon**](https://www.patreon.com/rofrischmann).
