@@ -1,7 +1,7 @@
 import React, { createElement } from 'react'
 
 const className = 'react-github-markdown-renderers_list'
-const css = `.${className}[style] & ul{margin-bottom: 0!important}`
+const css = `.${className}[style] ul{margin-bottom: 0!important}`
 const style = {
   paddingLeft: 24,
   marginBottom: 16,

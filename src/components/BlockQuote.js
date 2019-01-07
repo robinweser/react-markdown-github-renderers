@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react'
 
 const className = 'react-github-markdown-renderers_blockquote'
-const css = `.${className}[style] & p{margin-bottom:0!important}`
+const css = `.${className}[style] p{margin-bottom:0!important}`
 const style = {
   borderLeft: '4px solid rgb(223, 226, 229)',
   padding: '0 16px',

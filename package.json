@@ -1,7 +1,7 @@
 {
   "name": "react-markdown-github-renderers",
   "description": "react-markdown renderers for GitHub-like appearance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
   "main": "lib/index.js",
