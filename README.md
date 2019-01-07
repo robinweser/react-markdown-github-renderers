@@ -45,7 +45,6 @@ function greet(name) {
   console.log("Hello " + name)
 }
 ```
-```
 
 ```javascript
 import { Markdown } from 'react-markdown'
