@@ -48,13 +48,13 @@ function greet(name) {
 ```
 
 ```javascript
-import { Markdown } from 'react-markdown'
+import Markdown from 'react-markdown'
 import * as renderers from 'react-github-markdown-renderers'
 
 const markdown = /* consider the above markdown */
 
 ReactDOM.render(
-  <Markdown source={markdown} />, 
+  <Markdown source={markdown} escapeHtml={false} renderers={renderers} />, 
   document.body
 )
 ```
