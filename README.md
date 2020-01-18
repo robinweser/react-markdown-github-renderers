@@ -49,7 +49,7 @@ function greet(name) {
 
 ```javascript
 import Markdown from 'react-markdown'
-import * as renderers from 'react-github-markdown-renderers'
+import renderers from 'react-markdown-github-renderers'
 
 const markdown = /* consider the above markdown */
 
